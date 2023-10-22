@@ -1,3 +1,9 @@
+## 2023.10.22
+
+- R4 can now display dice face 1-6.
+- R4 can randomly select a dice face upon reset
+- Next step is to implement 
+
 ## 2023.10.14
 
 - R4 can now display dice faces for 1 and 6.
